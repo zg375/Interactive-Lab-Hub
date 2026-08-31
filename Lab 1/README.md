@@ -38,32 +38,20 @@ Feedback:
 
 ## Part B. Act out the Interaction
 
-Physically act out the interaction you planned. For now, just pretend the light
-is doing what you've scripted — a person can wave a flashlight, or you can narrate
-it aloud.
+We physically acted out the birthday candle interaction and narrated how the light was supposed to behave. Amy played the birthday person, and Yan played the friend celebrating with her. The first problem we encountered was controlling the light. We realized that we would either need a third person to control it or one of us would have to control the light while performing.
+We also found that the timing of the light control is very important, especially when turning off the light at the exact moment Amy blows toward it. If the light turns off too early or too late, the connection between Amy’s breath and the light’s response becomes less convincing.
 
-**Are there things that seemed better on paper than when acted out?**
+Based on the performance, we updated our plan in two ways:
+   1.  Yan will lights the candle for Amy instead of Amy lighting it herself.
+   2.  Yan will be both the friends and the "wizard" that controlled the light. 
 
-**Did new ideas about the piece surface once you were on your feet?**
-
-**Are there key moments in the interaction where things could go in a different direction?**
-Iterate your storyboards to capture key non-sequential aspects of the interaction. 
 
 ## Part C. Prototype the Light (light first!)
 
-Use your smartphone as the light of your device. Open the browser on your phone
-to act as the "light," and use the remote control interface on your computer to
-change that light. Code and setup instructions for the *Tinkerbelle* tool are
-[here](https://github.com/IRL-CT/tinkerbelle) (we invented this tool for
-this lab). If you hit technical trouble, a manually or remotely controlled light
-switch, dimmer, or lamp is a fine substitute.
+We used a remote control light to represent the birthday candle. The brightness can be adjusted and light can be turn on and off remotely.
 
-**Get the light interaction working before anything else.** Your grade this week
-rides on the *light* being recognizable — the color, the rhythm, the timing, the
-way it answers a person. Only once your light interaction genuinely reads as your
-masterwork should you consider layering in a second modality (sound, vibration,
-motion). If in doubt, keep polishing the light. The other modalities are next
-week's business.
+During the act, Yan will be both the friends and controls the light remotely. At the beginning of the interaction, Yan pretends to light the candle while discreetly turning on the remote-controlled light.  Amy looks at the light, makes a wish, and then blows toward it. When Yan sees Amy blowing, she remotely turns the light off. This creates the illusion that Amy’s breath extinguishes the candle. 
+
 
 ## Part D. Wizard the Device
 
