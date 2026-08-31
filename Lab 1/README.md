@@ -19,8 +19,11 @@ The core interaction has three stages: lighting the candles, making a wish, and 
 ## Part A. Plan
 
 Setting: The interaction takes place at Amy’s birthday celebration in an indoor space. A cake with a candle is placed at the center of the table.
+
 Players: The two players are Amy and Yan . Amy is the birthday person, and Yan is the friend celebrating with her.
+
 Activity: Amy lights the candle to begin the birthday ritual while Yan celebrates with her. Amy then looks at the candlelight and silently makes a wish. Finally, she takes a breath and blows out the candle. The flame responds to her breath by flickering and going out, and Yan reacts by cheering.
+
 Goals: Amy’s goal is to make a  wish and complete the birthday ritual by blowing out the candle. Yan’s goal is to support Amy and make the moment feel like a shared celebration. The candlelight connects the private act of wishing with the public act of celebrating.
 
 <img width="1686" height="1280" alt="image" src="https://github.com/user-attachments/assets/55a30f6c-4cad-4eed-bf0f-1efb033328e0" />
