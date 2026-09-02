@@ -91,7 +91,9 @@ wasn't clear.
 **Who were the other groups you kibitzed with? Add links to their project pages here.**
 
 Fireflies Synchorny: https://github.com/Simonehina/Interactive-Lab-Hub/tree/2e857ccdebdab6d013ab053856731f81f699be20/Lab%201
+
 The Campfire: https://github.com/certaindragon3/Interactive-Lab-Hub/blob/89054915129f7235b13dd83e839858aa039445fb/Lab%201/README.md
+
 Bioluminescent Lures: https://github.com/manrongm/Interactive-Lab-Hub/tree/mm3599-lab1a/Lab%201
 
 **Summarize the feedback you got from your partners here.**
