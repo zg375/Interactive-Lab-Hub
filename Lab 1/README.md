@@ -55,38 +55,25 @@ During the act, Yan will be both the friends and controls the light remotely. At
 
 ## Part D. Wizard the Device
 
-Set up a "wizard" arrangement so one person can secretly drive the light while
-another acts with it — this is how you make the device feel alive without
-building any real electronics. (Zoom works well for recording; you can pin the
-video feed of whichever scene you want to capture.)
+Yan acts as both Amy’s friend and the hidden “wizard” who controls the light. During the performance, Yan uses her iPhone flashlight as a pretend lighter. She moves the flashlight toward the candle while secretly using the remote to turn on the main light. This creates the illusion that Yan has lit a birthday candle. After Amy makes her wish, Yan watches carefully for the moment when Amy begins to blow. Yan then secretly uses the remote to turn off the light, making it appear that Amy blows out the candle.
 
-**Include your first attempts at recording the wizarded set-up here.**
+https://youtube.com/shorts/Ukj69Yok6vM?feature=share
 
-## Part E. (optional) Costume the Device
+This is the first attempt, however, the different lighting option on the remote had made the lighting transition bit confused and diffcult at first. 
 
-Only now should you worry about what the device looks like. Costume your phone so it reads
-as the object from your masterwork — HAL's eye, a Simon shell, a paper-lantern
-Tinker Bell, an Ambient Orb, a lighthouse, a jack-o'-lantern, whatever you drew.
-
-Think about the world your device lives in: could that environment overheat it?
-Is water a danger? Does it need to be loud and bright for an emergency, or quiet
-and calm for a bedroom?
-
-**Include sketches/photos of what your device might look like here.**
-
-**What concerns or opportunities shaped the way you designed its look?**
 
 ## Part F. Record
 
-**Record your prototyped interaction as a video sketch.** Aim for the bar from
-the top of this lab: a viewer who knows the piece should recognize it; a viewer
-who doesn't should come away understanding what it's famous for. How might you illustrate the non-sequential aspects of the interaction in the sketch?
+Our final video  recreates the birthday candle ritual using a remotely controlled light instead of a real flame. Yan begins the interaction by using her iPhone flashlight as a pretend lighter while secretly turning on the “candle". Amy then looks at the "candle", makes a private wish, and blows toward it. Yan turns off the "candle" at the moment Amy blows, creating the illusion that Amy blow out the candle. Yan then celebrates with Amy to complete the birthday ritual.
 
-**Include your video here.**
+The video focuses on the three central stages of the interaction: lighting the candle, candle stays on while making a wish, and blowing out the candle. We wanted the relationship between Amy and the "candle"  to be clear enough that viewers could recognize the birthday tradition without a real candle.
 
-**Please indicate who you collaborated with on this lab.** Be generous in
-acknowledging their contributions, and credit any other influences (YouTube,
-Github, Twitter, a friend who lent you a lamp) that informed your recreation.
+https://youtu.be/le-jdcLF47w
+
+Collaboration and Credit:
+Ziqiao Gao performed as the birthday person. Yan Shen performed as Ziqiao (Amy)’s friend and acted as the hidden wizard controlling the light. We worked together on the storyboard, interaction plan, physical acting, and video recording.
+
+We used a remotely controlled light and an iPhone flashlight to recreate the interaction without using a real flame. We shot our video on both Iphone and Macbook, then we upload our two videos and finalized on Youtube.
 
 ---
 
