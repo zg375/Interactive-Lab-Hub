@@ -39,7 +39,8 @@ Goals: Amy’s goal is to make a wish and complete the birthday ritual by blowin
 
 **Storyboard 1: The Normal Birthday Ritual
 **
-<Image>
+
+<img width="792" height="613" alt="IDD lab 1 storyboard 1" src="https://github.com/user-attachments/assets/84bd6971-02cb-44bf-8c1c-f6f8aab2507b" />
    
 This storyboard shows the expected sequence:
 1. Yan inserts the candles into the cake.
@@ -55,7 +56,8 @@ This sequence presents the most recognizable version of the birthday candle trad
 **Storyboard 2: The Candle Does Not Light on the First Attempt
 **
 
-<storyboard>
+<img width="792" height="613" alt="IDD lab 1 storyboard 2" src="https://github.com/user-attachments/assets/1ad95dae-43d5-4405-a26e-e2835608a8e9" />
+
    
 This storyboard explores what happens when the lighting process fails:
 1. Yan inserts the candles into the cake.
@@ -69,7 +71,9 @@ This version shows that the ritual cannot continue until the light is successful
 
 **Storyboard 3: The Candle Is Blown Out Too Early
 **
-<Image>
+
+<img width="792" height="613" alt="IDD lab 1 storyboard 3" src="https://github.com/user-attachments/assets/0bf55e9c-5214-4253-8a1a-9522722b3ae8" />
+
 
 This storyboard explores what happens when another participant interrupts the ritual:
 1. Yan inserts the candles into the cake.
@@ -107,14 +111,14 @@ The interaction begins with both lights off. The iPhone flashlight turns on firs
 Amy acts as the birthday person, while Yan acts as both Amy’s friend and the hidden wizard controlling the candle light. Yan uses her iPhone flashlight as a pretend lighter and secretly operates the remote-controlled light. She watches Amy’s actions in real time and changes the light at the right moments.
 
 Phone approaches candle → Yan turns on the iPhone flashlight
+
 Phone reaches candle → Yan turns on the candle light and turns off the flashlight
+
 Birthday song begins and Amy closes her eyes and makes a wish → Candle light on and steady
+
 Amy leans forward and blows → Yan turns off the candle light
 
-
-This is our attempt to capture the right timing for turning the lights on and off. 
-
-https://youtu.be/qHGJD8u0MuM
+This is our attempt to capture the right timing for turning the lights on and off. : https://youtu.be/qHGJD8u0MuM
 
 ## Part F. Record
 
@@ -152,13 +156,17 @@ All three groups easily recognized the birthday candle tradition and understood 
 
 Our updated version imagines two birthday people celebrating together through facetime from different locations. Instead of one person performing while the other watches, Amy and Yan each have a candle and participate equally in the same ritual. 
 
-Here is our update facetime version:
-
+Here is our update facetime version storyboard:
+<img width="792" height="613" alt="IDD lab 1 part 2 storyboard 1" src="https://github.com/user-attachments/assets/8b9807a4-1819-4064-a312-71cf3f8db542" />
 
 Amy and Yan light their own candles separately. Once both candles are ready, they sing for each other and make their own private wishes. They then count down and blow out their candles at the same time. Although the candles are in separate locations, both lights disappear together create one shared ending.
 
 The original birthday candle tradition is not only about blowing out a flame. It gathers people around the birthday person and turns a private wish into a shared, witnessed celebration. Our update recreates this experience without requiring the participants to share the same PHYSICAL space. The synchronized countdown and blowing connect their actions, when both lights disappear, the two separate spaces reach the same ending together and shows the shared ritual are complete. The design changes the relationship from one birthday person performing for an audience to two birthday people witnessing and supporting each other equally.
 
+Here is our update facetime version final video: https://youtu.be/qSQ6ethic9k
+
+Here is all of our prototype:
+<img width="2268" height="4032" alt="IDD lab 1 prototype" src="https://github.com/user-attachments/assets/b52f3969-9a4d-4c41-9690-f07f8ea38d43" />
 
 **Document everything here — especially the storyboard and video. Photos of the
 prototype are great too.**
