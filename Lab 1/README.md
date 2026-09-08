@@ -122,7 +122,7 @@ We selected this interaction because our classmates found it to be the clearest 
 
 Our other two storyboards explore non-sequential outcomes: the match going out before the candle is lit and a young child blowing out the candle before the birthday person finishes making a wish. For the final video, however, we focused on the normal sequence so that the central interaction would be easy to recognize.
 
-<video>
+
    
 Collaboration and Credit:
 Ziqiao Gao performed as the birthday person. Yan Shen performed as Ziqiao (Amy)’s friend and acted as the hidden wizard controlling the light. We worked together on the research, three storyboards, interaction design, physical acting, and video recording.
@@ -150,7 +150,8 @@ All three groups easily recognized the birthday candle tradition and understood 
 
 Our updated version imagines two birthday people celebrating together through Zoom from different locations. Instead of one person performing while the other watches, Amy and Yan each have a candle and participate equally in the same ritual. 
 
-<story board>
+
+
 
 Amy and Yan light their own candles separately. Once both candles are ready, they sing for each other and make their own private wishes. They then count down and blow out their candles at the same time. Although the candles are in separate locations, both lights disappear together and create one shared ending.
 
