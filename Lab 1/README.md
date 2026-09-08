@@ -65,6 +65,7 @@ This storyboard explores what happens when the lighting process fails:
 4. Yan apologizes and feels embarrassed.
 5. Yan strikes another match.
 6. Yan successfully lights the candles so the celebration can continue.
+
 This version shows that the ritual cannot continue until the light is successfully created. The failed match interrupts the expected sequence and creates an awkward pause.
 
 Storyboard 3: The Candle Is Blown Out Too Early
