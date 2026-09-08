@@ -149,21 +149,14 @@ All three groups easily recognized the birthday candle tradition and understood 
 
 ## Remix, Update, or Critique the Master
 
-Now that you understand your masterwork from the inside, respond to it. Do the
-recreation again, but this time make it your own — pick one of these moves (or
-combine them):
+Our updated version imagines two birthday people celebrating together through Zoom from different locations. Instead of one person performing while the other watches, Amy and Yan each have a candle and participate equally in the same ritual. 
 
-1. **Remix the modality.** Your recreation no longer has to (just) use light. Use
-   vibration, sound, motion, heat — whatever best carries the interaction. Feel
-   free to fork and modify the Tinkerbelle code. (Add your updates to this lab's folder!)
-2. **Update it.** Redesign the piece for today's context, or for a setting its
-   creators never imagined (the piece with roommates in the room, with children
-   present, on a phone, in a car).
-3. **Fix its weaknesses.** You identified this master's strengths and weaknesses
-   in Part 0 — now address a weakness, or push a strength further.
+<story board>
 
-We will grade this second pass with an emphasis on **creativity** and on how well
-your response engages with what your master was really doing.
+Amy and Yan light their own candles separately. Once both candles are ready, they sing for each other and make their own private wishes. They then count down and blow out their candles at the same time. Although the candles are in separate locations, both lights disappear together and create one shared ending.
+
+The original birthday candle tradition is not only about blowing out a flame. It gathers people around the birthday person and turns a private wish into a shared, witnessed celebration. Our update recreates this experience without requiring the participants to share the same physical space. The synchronized countdown and blowing connect their actions, when both lights disappear, the two separate spaces reach the same ending together and shows the shared ritual are complete. The design changes the relationship from one birthday person performing for an audience to two birthday people witnessing and supporting each other equally.
+
 
 **Document everything here — especially the storyboard and video. Photos of the
 prototype are great too.**
