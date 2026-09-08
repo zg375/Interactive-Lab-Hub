@@ -110,7 +110,6 @@ Phone reaches candle → Yan turns on the candle light and turns off the flashli
 Birthday song begins and Amy closes her eyes and makes a wish → Candle light on and steady
 Amy leans forward and blows → Yan turns off the candle light
 
-<video>
 
 This is our attempt to capture the right timing for turning the lights on and off. 
 
