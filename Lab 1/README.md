@@ -37,8 +37,8 @@ Goals: Amy’s goal is to make a wish and complete the birthday ritual by blowin
 
 
 
-Storyboard 1: The Normal Birthday Ritual
-
+**Storyboard 1: The Normal Birthday Ritual
+**
 <Image>
    
 This storyboard shows the expected sequence:
@@ -52,7 +52,8 @@ This storyboard shows the expected sequence:
 This sequence presents the most recognizable version of the birthday candle tradition. We selected it as the interaction for our final prototype and video.
 
 
-Storyboard 2: The Candle Does Not Light on the First Attempt
+**Storyboard 2: The Candle Does Not Light on the First Attempt
+**
 
 <storyboard>
    
@@ -66,8 +67,8 @@ This storyboard explores what happens when the lighting process fails:
 
 This version shows that the ritual cannot continue until the light is successfully created. The failed match interrupts the expected sequence and creates an awkward pause.
 
-Storyboard 3: The Candle Is Blown Out Too Early
-
+**Storyboard 3: The Candle Is Blown Out Too Early
+**
 <Image>
 
 This storyboard explores what happens when another participant interrupts the ritual:
