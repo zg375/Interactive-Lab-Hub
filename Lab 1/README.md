@@ -29,15 +29,13 @@ One strength of this tradition is its simplicity. The candlelight creates a clea
 
 Setting: The interaction takes place at a birthday celebration in a indoor space. A cake is placed at the center of a table.
 
-Players: Amy is the birthday person who makes a wish and blows out the candles.
-
-Yan is Amy’s friend, who prepares and lights the candles, sings, and celebrates with Amy.
-
-There will also be an additional participant acts as an naughty kids in the third storyboard who interrupts the ritual by blowing out the candles.
+Players: Amy is the birthday person who makes a wish and blows out the candles. Yan is Amy’s friend, who prepares and lights the candles, sings, and celebrates with Amy. There will also be an additional participant acts as an naughty kids in the third storyboard who interrupts the ritual by blowing out the candles.
 
 Activity: The main activity is the birthday candle ritual. Yan places and lights the candles, sings “Happy Birthday,” and waits while Amy makes a wish. Amy then blows out the candles, and Yan celebrates with her.
 
 Goals: Amy’s goal is to make a wish and complete the birthday ritual by blowing out the candles. Yan’s goal is to prepare the candles, guide the interaction, support Amy, and make the moment feel like a shared celebration.
+
+
 
 Storyboard 1: The Normal Birthday Ritual
 
