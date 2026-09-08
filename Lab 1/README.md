@@ -114,6 +114,7 @@ Amy leans forward and blows → Yan turns off the candle light
 
 This is our attempt to capture the right timing for turning the lights on and off. 
 
+https://youtu.be/qHGJD8u0MuM
 
 ## Part F. Record
 
@@ -123,7 +124,7 @@ We selected this interaction because our classmates found it to be the clearest 
 
 Our other two storyboards explore non-sequential outcomes: the match going out before the candle is lit and a young child blowing out the candle before the birthday person finishes making a wish. For the final video, however, we focused on the normal sequence so that the central interaction would be easy to recognize.
 
-
+Here is our final video: https://youtu.be/W525hTZRD5Q
    
 Collaboration and Credit:
 Ziqiao Gao performed as the birthday person. Yan Shen performed as Ziqiao (Amy)’s friend and acted as the hidden wizard controlling the light. We worked together on the research, three storyboards, interaction design, physical acting, and video recording.
@@ -149,14 +150,14 @@ All three groups easily recognized the birthday candle tradition and understood 
 
 ## Remix, Update, or Critique the Master
 
-Our updated version imagines two birthday people celebrating together through Zoom from different locations. Instead of one person performing while the other watches, Amy and Yan each have a candle and participate equally in the same ritual. 
+Our updated version imagines two birthday people celebrating together through facetime from different locations. Instead of one person performing while the other watches, Amy and Yan each have a candle and participate equally in the same ritual. 
+
+Here is our update facetime version:
 
 
+Amy and Yan light their own candles separately. Once both candles are ready, they sing for each other and make their own private wishes. They then count down and blow out their candles at the same time. Although the candles are in separate locations, both lights disappear together create one shared ending.
 
-
-Amy and Yan light their own candles separately. Once both candles are ready, they sing for each other and make their own private wishes. They then count down and blow out their candles at the same time. Although the candles are in separate locations, both lights disappear together and create one shared ending.
-
-The original birthday candle tradition is not only about blowing out a flame. It gathers people around the birthday person and turns a private wish into a shared, witnessed celebration. Our update recreates this experience without requiring the participants to share the same physical space. The synchronized countdown and blowing connect their actions, when both lights disappear, the two separate spaces reach the same ending together and shows the shared ritual are complete. The design changes the relationship from one birthday person performing for an audience to two birthday people witnessing and supporting each other equally.
+The original birthday candle tradition is not only about blowing out a flame. It gathers people around the birthday person and turns a private wish into a shared, witnessed celebration. Our update recreates this experience without requiring the participants to share the same PHYSICAL space. The synchronized countdown and blowing connect their actions, when both lights disappear, the two separate spaces reach the same ending together and shows the shared ritual are complete. The design changes the relationship from one birthday person performing for an audience to two birthday people witnessing and supporting each other equally.
 
 
 **Document everything here — especially the storyboard and video. Photos of the
