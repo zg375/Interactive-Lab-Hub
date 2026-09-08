@@ -50,6 +50,7 @@ This storyboard shows the expected sequence:
 4. Amy closes her eyes and makes a wish.
 5. Amy blows out the candles.
 6. Everyone cheers.
+
 This sequence presents the most recognizable version of the birthday candle tradition. We selected it as the interaction for our final prototype and video.
 
 
