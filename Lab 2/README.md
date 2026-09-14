@@ -217,6 +217,13 @@ Button B – Sleep / Start a New Day: Button B controls the user's personal day.
 David Zhang Chen - I find the idea of the ice cube quite innovative! It gives a very intuitive sense of how much of the day has passed. I also like the idea of having different functions for each button on the Raspberry Pi, especially the sleep mode on Button B, since it feels similar to a real phone feature. One thing to think about is what happens if the user forgets to press Button B, since that could make the melting progress inaccurate. Maybe there could be a default bedtime or a visual reminder if the clock has been active for longer than usual. 
 https://github.com/davidzhanggg/Interactive-Lab-Hub/tree/Fall2026/Lab%202
 
+Sina Liu - I really like the idea of one ice cube representing your personal day—it feels much more personal than a normal 24-hour clock! I was just wondering how the melting speed would be decided. Would the user set an expected bedtime, and what happens if they stay up much later or go to sleep earlier than planned? Maybe the clock could adjust based on the user’s previous sleep schedule. Also, what happens if someone forgets to press Button B when they wake up or go to sleep? It might be helpful to have a way to correct the start or end time later. And maybe holding Button B instead of just pressing it could prevent someone from accidentally ending their day.
+https://github.com/SinaL0123/Interactive-Lab-Hub/tree/Fall2026/Lab%202
+
+Jindi Chen - I really like the visual idea of using melting ice to represent the passage of time. People can look at how much the ice has melted and get a sense of how much of their day has passed. I also really like the idea of using a personal waking day, because everyone has different daily routines, so it feels more personal than using a fixed 24-hour day.
+
+One question I have is how the clock knows each person's expected bedtime. Would the user set it manually, or would there be some way for the clock to detect it? Also, what happens if the user goes to sleep earlier or later than expected? For example, if the ice has already completely melted but the user is still awake, how would the clock show that extra time? I'm also curious about what the screen would show after the user goes to sleep. And if the user wants to take a nap in the afternoon, would pressing the sleep button end the whole day?
+https://github.com/JindiChai/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md
 
 # Lab 2 Part 2
 
