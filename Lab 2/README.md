@@ -214,6 +214,10 @@ Button B – Sleep / Start a New Day: Button B controls the user's personal day.
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
 
+David Zhang Chen - I find the idea of the ice cube quite innovative! It gives a very intuitive sense of how much of the day has passed. I also like the idea of using button A to let users check the exact time when needed. One thing I think it would be nice to have is a more continuous transition of the melting process of the ice. You could also think about what happens at night or at the start of a new day, or how does the ice "reset" when a new day starts. 
+https://github.com/davidzhanggg/Interactive-Lab-Hub/tree/Fall2026/Lab%202
+
+
 # Lab 2 Part 2
 
 ## Prep 
