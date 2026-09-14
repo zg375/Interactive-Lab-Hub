@@ -192,10 +192,25 @@ Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/lates
 
 ## Part E. Read Part 2. Sketch and brainstorm further interactions and features you would like for your clock.
 
-<img width="1167" height="1347" alt="image" src="https://github.com/user-attachments/assets/e09ca882-2f42-4659-ad4a-0a6488be62a9" />
+Instead of representing a fixed 24-hour day, one ice cube represents the user's personal waking day. The ice starts melting when the user wakes up and gradually melts toward their expected bedtime. When the user goes to sleep, the current day ends, and a new ice cube appears when they wake up the next day. This makes the clock represent how much of the user's own day has passed rather than simply showing the time of day.
 
-The Ice Cube Clock will normally display only the melting ice cube without showing any numerical time. If the user wants to know the exact time, they can press and hold Button A to temporarily reveal it. Once the button is released, the display returns to the ice cube. This interaction keeps the main focus on feeling how much of the day has passed, while still allowing users to check the exact time when needed.
+1. Press Button B — Wake Up: A new personal day begins with a full ice cube.
 
+2. During the Day: The ice continuously melts and the water around it increases as the day progresses.
+
+3. Press Button A — Check Time: Press and hold Button A to temporarily show the numerical time. Release the button to return to the ice cube display.
+
+4. Approaching Bedtime: Most of the ice has melted, visually showing that most of the user's waking day has passed.
+
+5. Press Button B — Sleep: When the user is ready to sleep, pressing Button B enters sleep mode and stops the melting process.
+
+6. Next Morning: Press Button B again to wake the clock and start a new personal day with a new full ice cube.
+
+<img width="1000" height="366" alt="image" src="https://github.com/user-attachments/assets/bb6dcf88-f253-412c-8352-1f763ccd9f25" />
+
+Button A – Check Exact Time: The clock normally does not display numerical time. The user can press and hold Button A to temporarily see the exact time. When the button is released, the display returns to the melting ice cube. This keeps the main experience focused on feeling the passage of time while still allowing the user to check the exact time when needed.
+
+Button B – Sleep / Start a New Day: Button B controls the user's personal day. When the user is ready to sleep, pressing Button B ends the current day and stops the ice from melting. When the user wakes up, pressing Button B again starts a new personal day with a new full ice cube. This allows the clock to represent the user's waking day instead of a fixed 24-hour day.
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
 
