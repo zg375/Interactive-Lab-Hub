@@ -191,15 +191,9 @@ Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/lates
 
 ## Part E. Read Part 2. Sketch and brainstorm further interactions and features you would like for your clock.
 
-One potential source of ideas might be thinking about other clocks and timekeeping devices for inspiration.
+<img width="1167" height="1347" alt="image" src="https://github.com/user-attachments/assets/e09ca882-2f42-4659-ad4a-0a6488be62a9" />
 
-Another might be novel units of time. How do you measure a year? [In daylights? In midnights? In cups of coffee?](https://www.youtube.com/watch?v=wsj15wPpjLY)
-
-We strongly discourage literal digital or analog clock display: Be creative.
-
-
-** Insert ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf)), storyboards for your ideas **
-
+The Ice Cube Clock will normally display only the melting ice cube without showing any numerical time. If the user wants to know the exact time, they can press and hold Button A to temporarily reveal it. Once the button is released, the display returns to the ice cube. This interaction keeps the main focus on feeling how much of the day has passed, while still allowing users to check the exact time when needed.
 
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
