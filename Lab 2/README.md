@@ -264,13 +264,32 @@ Do take advantage of having done the previous iteration to refine and simplify y
 
 ** Insert any updates ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf))!, storyboards for your ideas **
 
+Design Iteration:
+Based on the feedback I received, I made several changes to the Ice Cube Clock. One concern was accidentally pressing Button B, so I changed it from a single press to a 2-second hold to start or end the day. Another important concern was what would happen if the user forgot to start the clock after waking up. In my original idea, pressing Button B would always start with a full ice cube. In the final version, the clock uses an expected day from 8 AM to midnight instead. This allows the ice to reflect the actual time of day even if the user starts the clock late. For example, if the user forgets to press Button B in the morning and remembers later in the day, the clock will start with a partially melted ice cube instead of a full one.
+
+
+Here is the updated verplank diagram:
+<img width="3508" height="2480" alt="未命名作品 9" src="https://github.com/user-attachments/assets/267d7864-6668-400f-92a1-c6f353dbd7f3" />
+
+Here is the updated storyboard:
+<img width="1556" height="970" alt="image" src="https://github.com/user-attachments/assets/c11897ee-4a5a-4d51-94de-9556d03ee8a7" />
 
 \*\*\***Put a copy of your code in your Lab 2 Github repo.**\*\*\*
 
+The final implementation can be found called Lab 2/ice_clock.py , and the six images are named ice_0.png , ice_10.png, ice_25.png, ice_50.png , ice_75.png , ice_100.png . 
+The final Ice Cube Clock represents the progress of the day through six stages of melting ice: 100%, 75%, 50%, 25%, 10%, and 0% remaining. From 8 AM to midnight, the ice gradually moves through these stages until it becomes a puddle. Holding Button A temporarily shows the exact numerical time, while releasing it returns to the ice visualization. Holding Button B for two seconds starts or ends the day.
+
+
 \*\*\***Take a video of your PiClock.**\*\*\*
+
+https://youtube.com/shorts/m28dsskoR7c?feature=share
+
+The video demonstrates two situations. In the first part, the user starts the clock in the morning and the ice begins as a full ice cube, then melts as the day progresses. In the second part, the user forgets to start the clock in the morning and presses Button B later in the day. Instead of restarting with a full ice cube, the clock immediately displays a partially melted stage based on the current time.
 
 
 As always, make sure you document contributions and ideas from others (and AI) explicitly in your writeup.
+
+The final design was iterated based on feedback from Sina, David, and Jindi, especially around accidental button presses, forgetting to start the clock, and how the clock should behave around bedtime. I used ChatGPT to help brainstorm solutions to these edge cases, troubleshoot and debug the Raspberry Pi code, and create the updated storyboard. I made the final design decisions and implemented and tested the prototype on the Raspberry Pi.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab.  Make sure the page for the group turn in is linked to your personal Interactive Lab Hub page. 
 
