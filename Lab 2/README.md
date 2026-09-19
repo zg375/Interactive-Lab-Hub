@@ -234,6 +234,13 @@ https://github.com/JindiChai/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md
 2. Look at and give feedback on the Part E. for at least 3 other people in the class and get 3 people to comment on your Part E!)
 **Put the feedback for your ideas here.**
 
+I received feedback from three classmates:
+  1. Sina: Liked the ice-melting concept, but pointed out that users might forget to press Button B. Suggested having a default schedule or reminder.
+  2. David: Asked how the clock would handle different bedtimes, sleeping earlier or later than expected, and accidentally pressing Button B. Suggested making the button interaction more intentional.
+  3. Jindi: Asked what would happen if the user forgot to start the clock, took a nap, or stayed awake after the ice completely melted.
+
+Based on this feedback, I changed Button B to a 2-second hold to prevent accidental presses and added a default 8 AM–12 AM schedule. If the user forgets to start the clock in the morning, the ice now automatically catches up to the current time instead of starting as a full ice cube.
+
 ## Update your Lab Hub
 
 [Update your Lab Hub](pull_updates/README.md) to get the latest content and requirements for Part 2.
@@ -247,6 +254,11 @@ Start small, pick just one element of your overall idea, just to show you have a
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your barely modified PiClock.**\*\*\*
+
+This is a testing barely modified ice clock: I just upload all image on the pi and tested the core visualization. The video shows  the ice cube progress from fully frozen to fully melted.
+
+https://youtube.com/shorts/7202EMKcjmo?feature=share
+
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
