@@ -109,7 +109,11 @@ The demo script also shows `--output-raw`, which streams audio to the speaker as
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
 (This shell file should be saved to your own repo for this lab.)
 
+my_greeting.sh
+
 \*\***Then answer: Is the same greeting, in these different voices, the same greeting? Describe one concrete way the voice changed what the utterance seemed to mean or who seemed to be speaking.**\*\*
+
+No, the same greeting felt different in different voices. I liked Piper the most because it sounded more natural and friendly. eSpeak sounded more robotic, so it felt more like a machine was talking to me, while Piper felt more like a real person.
 
 ## B. Speech to Text
 
@@ -132,6 +136,8 @@ Available sizes, smallest first: `tiny.en`, `base.en`, `small.en`, `medium.en`. 
 \*\***Record a few seconds of your own speech (`arecord -d 5 -f cd -c 1 -r 16000 test.wav`) and transcribe it with at least two model sizes. Report the real-time factor for each. At what point does the accuracy improvement stop being worth the delay, for a system that has to answer you?**\*\*
 
 \*\***Write your own script that verbally asks for a numerical input (a phone number, zipcode, number of pets) and records the answer the respondent provides.**\*\* Numbers are a good stress test — transcription systems make characteristic errors on digit strings, and you will want to know what they are before you design around them.
+
+I tested my recording with `tiny.en` and `base.en`. The real-time factor was 0.25x for `tiny.en` and 0.46x for `base.en`. In my test, `tiny.en` was actually more accurate, while `base.en` incorrectly transcribed “bye bye” as “I find you.” Since the larger model was slower without improving accuracy, I would choose `tiny.en` for a system that needs to respond quickly.
 
 ## C. Turn-taking: knowing when someone has stopped talking
 
