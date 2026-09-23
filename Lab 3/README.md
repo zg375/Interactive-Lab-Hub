@@ -109,7 +109,11 @@ The demo script also shows `--output-raw`, which streams audio to the speaker as
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
 (This shell file should be saved to your own repo for this lab.)
 
+my_greeting.sh
+
 \*\***Then answer: Is the same greeting, in these different voices, the same greeting? Describe one concrete way the voice changed what the utterance seemed to mean or who seemed to be speaking.**\*\*
+
+No, the same greeting felt different in different voices. I liked Piper the most because it sounded more natural and friendly. eSpeak sounded more robotic, so it felt more like a machine was talking to me, while Piper felt more like a real person.
 
 ## B. Speech to Text
 
