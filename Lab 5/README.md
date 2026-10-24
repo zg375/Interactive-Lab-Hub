@@ -2,7 +2,7 @@
 
 **Team:**
 
-**Members:** Full Name (netid, github-handle), ...
+**Members:** David Zhang (xz2229, davidzhanggg), 
 
 **Project name:**
 
