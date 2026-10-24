@@ -100,14 +100,49 @@ Hand and body pose tracking could help our observant system understand a user's 
 
 \*\*\***Ask Qwen three questions to answer. Paste the questions, the answers and how long each took. Try one of them with `qwen3:0.6b` and compare.**\*\*\*
 
-I tested two local Qwen models on the Raspberry Pi using historical questions and image understanding.
+Test 1:
 
-For the Roosevelt Island history question, Qwen3.5:0.8b took 65.6 seconds, while Qwen3:0.6b took 43.5 seconds. The smaller model was approximately 34% faster in this test. However, both models generated inaccurate historical information, demonstrating that local language models can produce confident but incorrect answers.
+Question: Tell me a bit about the history of Roosevelt Island.
 
-For the image understanding test, Qwen3.5:0.8b took 99.0 seconds and generated a detailed description of the photo, including a person, clothing, background objects, and a water bottle.
+Model: qwen3.5:0.8b
 
-Overall, the experiments showed that local AI models can support both text-based reasoning and visual understanding, but response latency and factual reliability remain important limitations for real-time interactive systems.
+Response:
 
+Roosevelt Island is an island located on Manhattan, New York City, originally built as part of the Great Wall of Manhattan to protect the harbor from pirates and storms. It was first developed in 1857 by John Quincy Adams and later became a significant landmark for American immigration and political history during the late 19th century.
+
+Response Time: 65.6 seconds
+
+Test 2:
+
+Question: Tell me a bit about the history of Roosevelt Island.
+
+Model: qwen3:0.6b
+
+Response:
+
+Roosevelt Island, located in the United States, was established in the 19th century as a residential area for the Roosevelt family. It played a significant role in the development of New York City and became a hub for the American West. The island is known for its historic architecture and the Roosevelt family's influence on the region.
+
+Response Time: 43.5 seconds
+
+Test 3: 
+
+Question: What is in this photo?
+
+Image: snap.jpg
+
+Model: qwen3.5:0.8b
+
+Response:
+
+This photo features a young Asian man with dark hair and glasses, wearing a blue shirt. He is looking directly at the camera with a slight smile. In the background, there are two white wall plates and a black water bottle on a table.
+
+Response Time: 99.0 seconds
+
+The smaller Qwen3:0.6b model responded faster (43.5 seconds) than Qwen3.5:0.8b (65.6 seconds) when answering the same  question. However, both models generated inaccurate historical information, showing that language models can produce confident but incorrect responses.
+
+For the image understanding task, Qwen3.5:0.8b took 99.0 seconds and generated a detailed description of the photo. Compared with YOLO's object detection, Qwen provided a more descriptive natural-language response.
+
+Overall, the experiments demonstrated the trade-offs between response speed, factual accuracy, and multimodal capabilities when running AI models locally on a Raspberry Pi.
 
 ## Part E. 
 ### Connect: from YOLO readings to Qwen reasoning
