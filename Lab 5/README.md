@@ -151,29 +151,19 @@ Overall, the experiments demonstrated the trade-offs between response speed, fac
 
 # Lab 5 Part 2: Overnight Sensation
 
-For Part 2, you will use the observant system from Part 1 to design a night-time interaction. On-device AI is slow, so let it work while you sleep. The person meets the device twice: **before bed**, when they hand the night over, and **when awake**, when the device gives something back. In between, the pipeline from Part E runs on its own.
-
-Two flavors, pick one or mix them:
-
-* **Sense all night.** The Pi watches, listens or measures from bedtime until morning and keeps a log.
-* **Process all night.** You already have the data (a day of phone photos, a long recording) and the Pi needs hours to get through it.
-
-Two house rules. Sample rather than stream: one look every 5 to 30 seconds is plenty, and it keeps the Pi cool. And keep everything on the Pi: tell the people you live with, point the camera at things rather than at beds, and delete the snapshots after the demo.
-
 ## Part F. 
 ### Read Part 2 and storyboard your night-time interaction
 
-Storyboard a night-time interaction built on your observant system, in three panels:
-
-1. **Before bed.** How does the person hand the night over, and how does the device acknowledge it?
-2. **While asleep.** What does the device watch or work through?
-3. **When awake.** What is the one thing the person learns, and in what medium?
-
-Stuck? A kitchen that tells you who raided the fridge. A desk that reports whether you actually went to bed. A window that names the quietest hour. A plant that describes its night. Find something better.
-
-Use storyboards and/or [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf).
-
 \*\*\***Insert ideas, sketches, Verplank diagrams and storyboards for your night-time interaction here.**\*\*\*
+
+We brainstormed several ideas, including:
+- **Notification tracker**: The user places their phone in front of the camera before sleeping, and the device will monitor when the screen lights up overnight. It will try to count and categorize notifications by app (e.g., WeChat, Calendar, etc). In the morning, it gives a summary of the notifications received and how frequently the phone was activated.
+- **Night digital processor**: The user uploads a folder of unsorted photos before going to bed. Overnight, YOLO analyzes the images and categorizes them based on detected objects, such as people, animals, food, or vehicles. In the morning, the user receives an organized photo collection and a summary of its contents.
+- **AI Dream Machine**: Before bed, the user uploads photos from their day, then YOLO analyzes them overnight and identifies objects, while Qwen uses these observations to come up with a creative, dream-like story. In the morning, the device reveals and narrates the dream using text-to-speech.
+
+We ended up choosing our third idea, AI Dream Machine, and this is our initial storyboard:
+<img width="3769" height="1279" alt="image" src="https://github.com/user-attachments/assets/ee87f53f-2861-4c1c-9180-23775d2a0121" />
+
 
 ## Prep for Part 2
 
@@ -188,23 +178,26 @@ Use storyboards and/or [Verplank diagrams](https://ccrma.stanford.edu/courses/25
 ## Part G. 
 ### Design the interaction before
 
-The hand-off: the person tells the device what to watch tonight, and the device acknowledges it. Keep it to a thirty-second ritual. A button or a touch (Lab 4), a spoken sentence (Lab 3), a wave or a Quiet Coyote at the camera (Part C). The acknowledgement can be a line on the display, a tone, or an LED that dims rather than lights up. At its simplest, the hand-off just sets the question that the morning will answer.
-
 \*\*\***Describe the interaction before.**\*\*\*
+
+
+Before going to bed, the user uploads 50 photos of their week  into a designated folder on the Raspberry Pi. Once the photos are ready, they press a physical button to activate the AI Dream Machine.
+
+The device acknowledges the hand-off with a short audio message: “Good night! I'll dream about your week.”
+
+The Raspberry Pi then begins processing the photos in the background using YOLO and Qwen. The user does not need to interact with the device again until the next morning.
+
+The entire hand-off takes less than 30 seconds, assuming the photos have already been transferred.
+
 
 ## Part H. 
 ### Incorporate the observant system
 
-The Part E pipeline becomes the night shift. `overnight.py` runs your `interpret()` from `yolo_to_qwen.py` every few seconds, people only unless you pass `--all`, and writes the readings to `night_log.jsonl`; the reasoning waits for the morning. Start it inside `tmux` so it keeps running after you close your laptop, and stop it with Ctrl-C in the morning:
-
-```
-(.venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 5 $ tmux new -s night
-(.venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 5 $ python overnight.py
-```
-
-Fake a night first: run it for thirty seconds while you walk around, stop it, and run `morning.py` from Part I. When that looks right, run a real night. If your storyboard needs a sensor rather than the camera, swap in the Lab 4 example code and log its reading the same way.
-
 \*\*\***Screenshots or videos of the running system.**\*\*\*
+
+<img width="1856" height="607" alt="image" src="https://github.com/user-attachments/assets/6529a3cb-1f41-4879-9f5c-c31da49157b0" />
+<img width="872" height="340" alt="image" src="https://github.com/user-attachments/assets/01c32333-a6f7-47e5-b37a-3775ec9fc8a0" />
+
 
 ## Part I. 
 ### Design the interaction after
